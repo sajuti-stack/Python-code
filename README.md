@@ -18,5 +18,5 @@ Minimum font size is 10
 Should include an executive summary, background/context, a brief description of the problem, brief description of the methods, results and their discussion, focusing on insights and calls to action marketing-wise
 
 # My contribution
-  I have created the entire Python source code file on my own.
+  I have created the entire Python source code file on my own. I had to first understand the data, clean it & sort out the anomalies, find the answers of the business questions. My group members (2 others) created the presentation. I contributed to crafting the Report as well, as we had to explain our method and findings.
   It received high marks in the professors evaluation (16/20)
